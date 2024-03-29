@@ -24,7 +24,7 @@
 **user_actions_contact_views.ipynb**
 
 ## Дашборд в Tableau
-[Ссылка на виз](https://public.tableau.com/app/profile/viktor.borodulya/viz/_16976379402210/sheet2)
+[Ссылка на виз](https://public.tableau.com/app/profile/viktor.borodulya/viz/FirstWorkbook_16954745217230/custom#1)
 
 ## requirements.txt
 Файл содержит список библиотек Python, необходимых для запуска проекта. Чтобы установить библиотеки, запустите следующую команду: <pre>pip install -r requirements.txt<pre>
